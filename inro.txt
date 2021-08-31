@@ -1,0 +1,5 @@
+Api key = 4f031d02d8b0bc06fee1d0b05c173d7d
+
+City key = https://api.openweathermap.org/data/2.5/weather?q=dhaka&appid=4f031d02d8b0bc06fee1d0b05c173d7d
+
+icon url = https://openweathermap.org/img/w/04n.png   {04n is icon code}
